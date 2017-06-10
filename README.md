@@ -5,7 +5,8 @@
 LSTM built with TensorFlow for generating a new Simpson TV Script using a Recurrent Neural Network.  
 Based off [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons.
 
-## Sample Script Generated:
+
+### Sample Script Generated:
 moe_szyslak: oh, you're burning it all wrong, seymour.  
 homer_simpson:(sobs) what do you think?  
 homer_simpson:(smoothly) i'll have you know, i wrote it down.  
