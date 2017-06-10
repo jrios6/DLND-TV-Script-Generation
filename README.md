@@ -10,7 +10,7 @@ Based off [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-t
 moe_szyslak: oh, you're burning it all wrong, seymour.  
 homer_simpson:(sobs) what do you think?  
 homer_simpson:(smoothly) i'll have you know, i wrote it down.  
-homer_simpson:(distraught) don't tell my kids i'm going to jail! tell them i've joined the blue man group! i'm the fat one!
+homer_simpson:(distraught) don't tell my kids i'm going to jail! tell them i've joined the blue man group! i'm the fat one!  
 moe_szyslak:(quietly) no, i think i was just using it as a compliment!(chuckle) three beers, please!  
 homer_simpson:(sweet) yeah.  
 homer_simpson:(surprised) really? you think it's dangerous?  
