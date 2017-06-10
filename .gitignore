@@ -1,0 +1,6 @@
+*.pyc
+*.index
+*.p
+*.ipynb_checkpoints
+save*
+checkpoint*
